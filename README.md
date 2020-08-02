@@ -4,7 +4,6 @@ Below preview pics and the original chinese developers
 
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
 Greasyfork: [雀魂mod_plus](https://greasyfork.org/zh-CN/scripts/408051-%E9%9B%80%E9%AD%82mod-plus)  
-## Original
 原作者代码地址：[雀魂mod](https://github.com/UsernameFull/majsoul_mod)
 
   
