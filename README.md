@@ -7,6 +7,7 @@ Greasyfork: [雀魂mod_plus](https://greasyfork.org/zh-CN/scripts/408051-%E9%9B%
 原作者代码地址：[雀魂mod](https://github.com/UsernameFull/majsoul_mod)
 
   
-![image](https://raw.githubusercontent.com/Avenshy/majsoul_mod_plus/master/preview1.png)
-![image](https://raw.githubusercontent.com/Avenshy/majsoul_mod_plus/master/preview2.png)
+![image](https://github.com/watterle/majsoul_mod_plus/blob/master/preview.png)
+![image](https://github.com/watterle/majsoul_mod_plus/blob/master/2.png)
+![image](https://github.com/watterle/majsoul_mod_plus/blob/master/3.png)
    
