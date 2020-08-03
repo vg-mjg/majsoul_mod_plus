@@ -4,7 +4,7 @@ Below there are preview pics and the original chinese developers.
 
 # Known bugs
 - Some special effects don't work
-- Changing costumes doesn't work
+- While in friendly lobby, your original character is shown. Ingame it will go back to the one you selected outside the lobby
 
 # Source
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
