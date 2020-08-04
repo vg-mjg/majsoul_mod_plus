@@ -6,6 +6,7 @@ Below there are preview pics and the original chinese developers.
 - Characters
 - Character costumes
 - Tablecloths
+- Tilebacks
 - Lobby background
 - VN for cat and hag
 
