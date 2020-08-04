@@ -1,10 +1,19 @@
 # majsoul_mod_plus  
-Mod for majsoul plus that unlocks all characters, decorations, portraits. Almost everything. Of course, it only works in locale.
+Mod for majsoul plus that unlocks all characters, decorations, the VNs. Of course, it only works in locale.
 Below there are preview pics and the original chinese developers.
 
-# Known bugs
-- Some special effects don't work
-- While in friendly lobby, your original character is shown. Ingame it will go back to the one you selected outside the lobby
+# Things that work
+- Characters
+- Character costumes
+- Tablecloths
+- Lobby background
+- VN for cat and hag
+
+# Things that don't work
+- Riichi sticks
+- Riichi musics
+- Win effects
+- Portraits
 
 # Source
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
