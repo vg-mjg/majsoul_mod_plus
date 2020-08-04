@@ -1,6 +1,6 @@
 # majsoul_mod_plus  
 Mod for majsoul plus that unlocks all characters, decorations, the VNs. Of course, it only works in locale.
-Below there are preview pics and the original chinese developers.
+Below there is the list of things that work, and preview pics.
 
 # Things that work
 - Characters
