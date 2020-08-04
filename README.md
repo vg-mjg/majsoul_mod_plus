@@ -14,6 +14,7 @@ Below there are preview pics and the original chinese developers.
 - Riichi musics
 - Win effects
 - Portraits
+- Hand paw
 
 # Source
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
