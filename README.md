@@ -9,13 +9,15 @@ Below there is the list of things that work, and preview pics.
 - Tilebacks
 - Lobby background
 - VN for cat and hag
-
-# Things that don't work
 - Riichi sticks
 - Riichi musics
 - Win effects
 - Portraits
 - Hand paw
+- Titles
+
+# Bugs
+- After a friendly, you get thrown out of the lobby
 
 # Source
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
