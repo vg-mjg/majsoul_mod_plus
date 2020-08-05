@@ -17,7 +17,7 @@ Below there is the list of things that work, and preview pics.
 - Titles
 
 # Bugs
-- After a friendly, you get thrown out of the lobby
+- After a friendly, you get thrown out of the lobby. (Old version doesn't have this, but you're missing about half of the gacha items)
 
 # Source
 Github: [雀魂mod_plus](https://github.com/Avenshy/majsoul_mod_plus)  
